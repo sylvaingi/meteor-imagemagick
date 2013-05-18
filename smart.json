@@ -1,0 +1,8 @@
+{
+  "name": "imagemagick",
+  "description": "Imagemagick wrapped for Meteor",
+  "homepage": "https://github.com/sylvaigi/meteor-imagemagick",
+  "author": "Sylvain Gizard",
+  "version": "0.1.0",
+  "git": "https://github.com/sylvaigi/meteor-imagemagick.git"
+}
