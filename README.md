@@ -4,7 +4,7 @@ Meteor wrapped library [node-imagemagick](https://github.com/rsms/node-imagemagi
 
 ## Installation
 
-You need at least version 0.6.0 of Meteor.
+You need at least version 0.6.5 of Meteor.
 
 Meteor Imagemagick can be installed with [Meteorite](https://github.com/oortcloud/meteorite/). From inside a Meteorite-managed app:
 
