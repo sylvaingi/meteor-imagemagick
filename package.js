@@ -7,5 +7,6 @@ Npm.depends({
 });
 
 Package.on_use(function (api) {
+  api.export('Imagemagick');
   api.add_files("imagemagick.js", "server");
 });

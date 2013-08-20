@@ -3,6 +3,6 @@
   "description": "Imagemagick wrapped for Meteor",
   "homepage": "https://github.com/sylvaingi/meteor-imagemagick",
   "author": "Sylvain Gizard <sylvain.gizard@gmail.com>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "git": "https://github.com/sylvaingi/meteor-imagemagick.git"
 }
