@@ -95,7 +95,7 @@ Imagemagick.resize({
 console.log('resized kittens.jpg to fit within 256x256px');
 ```
 
-### crop(options, callback) ###
+### crop(options) ###
 Convenience function for resizing and cropping an image. _crop_ uses the resize method, so _options_ and _callback_ are the same. _crop_ uses _options.srcPath_, so make sure you set it :) Using only _options.width_ or _options.height_ will create a square dimensioned image.  Gravity can also be specified, it defaults to Center.   Available gravity options are [NorthWest, North, NorthEast, West, Center, East, SouthWest, South, SouthEast]
 
 Example:
